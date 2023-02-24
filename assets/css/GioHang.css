@@ -1,0 +1,35 @@
+.xans-order-dcinfo h3 {
+    font-size: 12px;
+}
+
+.xans-order-dcinfo .description .mileage {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.xans-order-dcinfo .description .mileage li {
+    float: left;
+    margin: 0 40px 0 0;
+}
+
+.xans-order-basketpackage .ec-base-table td.thumb img {
+    max-width: 80px;
+}
+
+.ezca-reviews-badge {
+    display: flex!important;
+    justify-content: center!important;
+    margin: 4px 0!important;
+}
+
+.ezca-star-empty {
+    -webkit-mask: url(../imgs/star-empty.svg)no-repeat center center!important;
+    mask: url(../imgs/star-empty.svg)no-repeat center center!important;
+}
+
+.ezca-reviews-badge div {
+    width: 18px!important;
+    height: 18px!important;
+    background-color: #ffb400!important;
+}
